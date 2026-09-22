@@ -1,0 +1,12 @@
+CIP-BTSB-BT-002 Rev A — fingerprints of withheld documents
+Issued 22 September 2026 · S. Mohammed Idreesh, CIP, Chennai
+
+These documents are withheld until the complete specification of
+Indian patent application IN 202641099975 is filed (due 19 Aug 2027).
+When released, anyone can verify them by computing SHA-256 of the PDF.
+
+SHA-256  f070c2f2ed1a2ab32883012cab1a2c628729f6e1a413fc494ef459f0757baf53
+         BT-002_Doc1A_Private_Build_Method.pdf  (Annex A — construction method)
+
+SHA-256  ae51e716db6f6be01f0659e33669c64d759a8e9f015808143cb9af0a6cbf1498
+         BT-002_Doc2_Working_Guide_PRIVATE.pdf  (operator working guide)
