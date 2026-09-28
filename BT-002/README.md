@@ -12,3 +12,4 @@ Part A completes the intumescent onset test (H4) pre-registered in
 BT-001 Rev A Section 8, with its criteria unchanged.
 
 Results will be added as Revision B.
+- Supplier data received after pre-registration, protocol changes, and prediction P2: NOTE-001_supplier_data_and_protocol_changes.md
